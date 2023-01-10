@@ -1,2 +1,3 @@
-# LeetCode
-Solutions for (Easy, Medium, Hard) problems on LeetCode with explanation.
+## README
+
+This is my Solutions on [LeetCode].
