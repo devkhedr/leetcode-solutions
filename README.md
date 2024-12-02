@@ -7,6 +7,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -54,4 +55,12 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/devkhedr/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
