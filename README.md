@@ -28,6 +28,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/devkhedr/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0874-backspace-string-compare](https://github.com/devkhedr/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/devkhedr/leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -58,9 +59,14 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/devkhedr/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0045-jump-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/devkhedr/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
