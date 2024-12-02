@@ -7,6 +7,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -15,5 +16,14 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
