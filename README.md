@@ -26,4 +26,8 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/devkhedr/leetcode-solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
