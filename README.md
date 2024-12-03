@@ -25,6 +25,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0202-happy-number) |
 | [0874-backspace-string-compare](https://github.com/devkhedr/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/devkhedr/leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -40,6 +41,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | ------- |
 | [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/devkhedr/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -78,6 +80,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | ------- |
 | [0062-unique-paths](https://github.com/devkhedr/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/devkhedr/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/devkhedr/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
