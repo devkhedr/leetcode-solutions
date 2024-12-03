@@ -18,6 +18,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0088-merge-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devkhedr/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/devkhedr/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/devkhedr/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/devkhedr/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/devkhedr/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -172,4 +174,8 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
