@@ -14,6 +14,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0055-jump-game](https://github.com/devkhedr/leetcode-solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/devkhedr/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/devkhedr/leetcode-solutions/tree/master/0078-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
@@ -90,6 +91,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/devkhedr/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/devkhedr/leetcode-solutions/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,4 +104,8 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/devkhedr/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
