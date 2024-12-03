@@ -64,6 +64,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/devkhedr/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0367-valid-perfect-square](https://github.com/devkhedr/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0045-jump-game-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devkhedr/leetcode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/devkhedr/leetcode-solutions/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -90,4 +92,8 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/devkhedr/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
