@@ -16,6 +16,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0064-minimum-path-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/devkhedr/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/0120-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
@@ -86,6 +87,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0055-jump-game](https://github.com/devkhedr/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/devkhedr/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/0120-triangle) |
 ## Greedy
 |  |
 | ------- |
