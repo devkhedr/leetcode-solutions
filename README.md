@@ -46,6 +46,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0149-max-points-on-a-line](https://github.com/devkhedr/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/devkhedr/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 ## String
 |  |
@@ -53,6 +54,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0022-generate-parentheses](https://github.com/devkhedr/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/devkhedr/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/devkhedr/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/devkhedr/leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -162,4 +164,8 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/devkhedr/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
