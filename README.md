@@ -18,6 +18,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0088-merge-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devkhedr/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0149-max-points-on-a-line](https://github.com/devkhedr/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
@@ -38,6 +39,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0149-max-points-on-a-line](https://github.com/devkhedr/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devkhedr/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/devkhedr/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0367-valid-perfect-square](https://github.com/devkhedr/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
@@ -145,4 +148,8 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0100-same-tree](https://github.com/devkhedr/leetcode-solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devkhedr/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devkhedr/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/devkhedr/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
