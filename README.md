@@ -10,6 +10,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Two Pointers
@@ -72,6 +73,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | ------- |
 | [0022-generate-parentheses](https://github.com/devkhedr/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -80,4 +82,8 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/devkhedr/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
