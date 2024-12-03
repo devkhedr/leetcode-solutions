@@ -108,4 +108,8 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0078-subsets](https://github.com/devkhedr/leetcode-solutions/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
