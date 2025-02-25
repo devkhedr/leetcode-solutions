@@ -17,6 +17,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0078-subsets](https://github.com/devkhedr/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devkhedr/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -113,6 +114,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0062-unique-paths](https://github.com/devkhedr/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devkhedr/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
