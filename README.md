@@ -27,6 +27,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0217-contains-duplicate](https://github.com/devkhedr/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0724-find-pivot-index](https://github.com/devkhedr/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/devkhedr/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/devkhedr/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -217,6 +218,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/devkhedr/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Counting
 |  |
