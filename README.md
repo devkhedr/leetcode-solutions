@@ -31,6 +31,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/devkhedr/leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | ------- |
 | [0874-backspace-string-compare](https://github.com/devkhedr/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
