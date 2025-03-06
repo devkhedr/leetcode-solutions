@@ -42,6 +42,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2551-apply-operations-to-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/devkhedr/leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1777-determine-if-two-strings-are-close](https://github.com/devkhedr/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/devkhedr/leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -133,6 +135,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/devkhedr/leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/devkhedr/leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,6 +187,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0064-minimum-path-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
