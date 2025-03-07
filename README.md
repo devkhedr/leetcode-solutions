@@ -134,6 +134,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0367-valid-perfect-square](https://github.com/devkhedr/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/devkhedr/leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/devkhedr/leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/devkhedr/leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -246,4 +247,8 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/devkhedr/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/devkhedr/leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
