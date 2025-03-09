@@ -29,6 +29,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0334-increasing-triplet-subsequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0643-maximum-average-subarray-i](https://github.com/devkhedr/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/devkhedr/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -246,6 +247,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/devkhedr/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devkhedr/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devkhedr/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
