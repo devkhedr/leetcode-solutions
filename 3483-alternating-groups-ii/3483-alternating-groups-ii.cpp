@@ -1,8 +1,9 @@
 class Solution {
 public:
+int p[100001];
     int numberOfAlternatingGroups(vector<int>& colors, int k) {
         int n = colors.size();
-        vector<int> p(n+1);
+        // vector<int> p(n+1);
         p[1] = (colors[0] != colors[n-1]);
         for(int i=2;i<=n;i++) {
             p[i] = p[i-1] + (colors[i-1] != colors[i-2]);
