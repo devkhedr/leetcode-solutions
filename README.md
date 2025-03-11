@@ -7,6 +7,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -78,6 +79,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/devkhedr/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
