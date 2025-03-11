@@ -1,24 +1,26 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        set<int> st[3];
-        int n = s.size();
-        for(int i=0;i<n;i++) {
-            st[s[i] - 'a'].insert(i);
-        }
-        int ans = 0, idx1=-1, idx2=-1;
-        for(int i=0;i<n;i++) {
-            for(char a='a';a<='c';a++) {
-                if(s[i] == a) continue;
-                auto it = st[a-'a'].lower_bound(i);
-                if(it == st[a-'a'].end()) continue;
-                if(idx1 == -1) idx1 = *it;
-                else idx2 = *it;
+        int last_a = -1 , last_b = -1, last_c = -1, n = s.size(), ans = 0;
+        for(int i=n-1;i>=0;i--) {
+            if(s[i] == 'a') {
+                if(last_b != -1 && last_c != -1) {
+                    ans += n-max(last_b, last_c);
+                }
+                last_a = i;
             }
-            if(idx1 != -1 && idx2 != -1) {
-                ans += n-max(idx1, idx2);
+            else if(s[i] == 'b') {
+                if(last_a != -1 && last_c != -1) {
+                    ans += n-max(last_a, last_c);
+                }
+                last_b = i;
             }
-            idx1 = idx2 = -1;
+            else {
+                if(last_a != -1 && last_b != -1) {
+                    ans += n-max(last_a, last_b);
+                }
+                last_c = i;
+            }
         }
         return ans;
     }
