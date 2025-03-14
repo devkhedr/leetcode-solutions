@@ -8,6 +8,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -58,6 +59,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devkhedr/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -75,6 +77,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
