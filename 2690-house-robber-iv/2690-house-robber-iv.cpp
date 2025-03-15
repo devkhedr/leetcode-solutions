@@ -1,9 +1,9 @@
 class Solution {
 public:
     int minCapability(vector<int>& nums, int k) {
-        int n = nums.size();
-        auto check = [&](int mid) {
-            int cnt = 0;
+        int n = nums.size(), cnt = 0;
+        auto check = [&](int &mid) {
+            cnt = 0;
             for(int i=0;i<n;i++) {
                 if(nums[i] <= mid) cnt++,i++;
                 if(cnt>=k) return 1;
