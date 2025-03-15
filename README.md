@@ -27,6 +27,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0136-single-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/devkhedr/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devkhedr/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/devkhedr/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devkhedr/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/devkhedr/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -224,6 +225,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/devkhedr/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -251,12 +253,14 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0100-same-tree](https://github.com/devkhedr/leetcode-solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devkhedr/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devkhedr/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/devkhedr/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1428-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/devkhedr/leetcode-solutions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/devkhedr/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1428-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -285,6 +289,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/devkhedr/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Prefix Sum
 |  |
