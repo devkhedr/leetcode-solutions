@@ -199,6 +199,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0120-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devkhedr/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/devkhedr/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devkhedr/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -254,6 +255,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/devkhedr/leetcode-solutions/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devkhedr/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devkhedr/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/devkhedr/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -261,6 +263,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/devkhedr/leetcode-solutions/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devkhedr/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devkhedr/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/devkhedr/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -279,6 +282,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/devkhedr/leetcode-solutions/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devkhedr/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devkhedr/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/devkhedr/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
