@@ -178,6 +178,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0202-happy-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/devkhedr/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devkhedr/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/devkhedr/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/devkhedr/leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/devkhedr/leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -212,6 +213,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0124-binary-tree-maximum-path-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/devkhedr/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/devkhedr/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devkhedr/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -348,4 +350,8 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/devkhedr/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
