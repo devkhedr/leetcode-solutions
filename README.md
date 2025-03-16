@@ -85,6 +85,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0088-merge-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devkhedr/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0778-reorganize-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/devkhedr/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Hash Table
@@ -99,6 +100,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0438-find-all-anagrams-in-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0778-reorganize-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1319-unique-number-of-occurrences](https://github.com/devkhedr/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/devkhedr/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/devkhedr/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -117,6 +119,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0151-reverse-words-in-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0778-reorganize-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/devkhedr/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/devkhedr/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/devkhedr/leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -206,6 +209,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0055-jump-game](https://github.com/devkhedr/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0778-reorganize-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -305,6 +309,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/devkhedr/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/devkhedr/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Number Theory
@@ -315,6 +320,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0778-reorganize-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
