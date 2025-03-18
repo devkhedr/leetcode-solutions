@@ -8,24 +8,20 @@ public:
                 v[x][i] = v[x][i-1] + (bool)(nums[i-1] & (1 << x));
             }
         }
-        auto check = [&](int mid) {
-            int l = 1, r = mid;
-            while(r<=n) {
-                bool ok = 1;
-                for(int x=0;x<=30;x++) {
-                    if((v[x][r] - v[x][l-1] )> 1) ok = 0;
-                }
-                if(ok) return 1;
-                l++, r++;
+        int l = 1, r = 1, ans = 1;
+        while(r <= n) {
+            bool ok = 1;
+            for(int x=0;x<=30;x++) {
+                if((v[x][r] - v[x][l-1] )> 1) ok = 0;
             }
-            return 0;
-        };
-        int low = 1, high = n, sol = 1, mid;
-        while(low <= high) {
-            mid = low + (high - low) /2;
-            if(check(mid)) sol = mid, low = mid + 1;
-            else high = mid - 1;
+            if(ok) {
+                ans = max(ans, r-l+1);
+                r++;
+            }
+            else {
+                l++;
+            }
         }
-        return sol;
+        return ans;
     }
 };
