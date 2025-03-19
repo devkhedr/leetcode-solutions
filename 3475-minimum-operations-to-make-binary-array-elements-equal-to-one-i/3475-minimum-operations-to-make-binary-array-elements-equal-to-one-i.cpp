@@ -5,9 +5,7 @@ public:
         for(int i=0;i<n-2;i++) {
             if(nums[i] == 0) nums[i]^=1, nums[i+1]^=1, nums[i+2]^=1, cnt++;
         }
-        for(int i=0;i<n;i++) {
-            if(!nums[i]) return -1;
-        }
-        return cnt;
+        if(nums[n-2]&&nums[n-1]) return cnt;
+        return -1;
     }
 };
