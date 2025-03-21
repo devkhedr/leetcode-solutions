@@ -70,6 +70,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/devkhedr/leetcode-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3483-alternating-groups-ii) |
+| [3639-zero-array-transformation-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
@@ -370,6 +371,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1833-find-the-highest-altitude](https://github.com/devkhedr/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
