@@ -413,4 +413,8 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devkhedr/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/devkhedr/leetcode-solutions/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
