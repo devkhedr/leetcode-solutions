@@ -146,6 +146,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0778-reorganize-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/devkhedr/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devkhedr/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/devkhedr/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/devkhedr/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1483-rank-teams-by-votes](https://github.com/devkhedr/leetcode-solutions/tree/master/1483-rank-teams-by-votes) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/devkhedr/leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -180,6 +181,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0144-binary-tree-preorder-traversal](https://github.com/devkhedr/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devkhedr/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/devkhedr/leetcode-solutions/tree/master/0874-backspace-string-compare) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/devkhedr/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
