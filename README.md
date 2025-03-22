@@ -76,6 +76,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3639-zero-array-transformation-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3750-closest-equal-element-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3750-closest-equal-element-queries) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devkhedr/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3750-closest-equal-element-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3750-closest-equal-element-queries) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devkhedr/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -269,6 +271,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0778-reorganize-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devkhedr/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
 | ------- |
