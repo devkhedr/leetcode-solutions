@@ -3,13 +3,19 @@ public:
     int cntN, cntE;
     vector<vector<int>> adj;
     vector<bool> vis;
-    void dfs(int u) {
-        vis[u] = 1;
-        cntN++;
-        cntE += (adj[u].size());
-        for(int &x: adj[u]) {
-            if(!vis[x]) {
-                dfs(x);
+    queue<int> q;
+    void bfs(int i) {
+        q.push(i);
+        vis[i] = 1;
+        while(!q.empty()) {
+            int x = q.front();
+            q.pop();
+            cntN++;
+            cntE += adj[x].size();
+            for(auto &u: adj[x]) {
+                if(!vis[u]) {
+                    q.push(u), vis[u] = 1;
+                }
             }
         }
     }
@@ -23,7 +29,7 @@ public:
         for(int i=0;i<n;i++) {
             if(!vis[i]) {
                 cntN = cntE = 0;
-                dfs(i);
+                bfs(i);
                 ans += ((cntN*(cntN-1) / 2) == (cntE / 2));
             }
         }
