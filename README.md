@@ -269,6 +269,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devkhedr/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/devkhedr/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
 | ------- |
@@ -432,15 +433,21 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/devkhedr/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devkhedr/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/devkhedr/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/devkhedr/leetcode-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/devkhedr/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devkhedr/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Enumeration
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/devkhedr/leetcode-solutions/tree/master/1212-sequential-digits) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/devkhedr/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
