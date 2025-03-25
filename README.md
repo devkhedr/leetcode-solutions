@@ -79,6 +79,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3483-alternating-groups-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/devkhedr/leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3750-closest-equal-element-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devkhedr/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
@@ -119,6 +120,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1777-determine-if-two-strings-are-close](https://github.com/devkhedr/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3430-count-days-without-meetings](https://github.com/devkhedr/leetcode-solutions/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/devkhedr/leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
