@@ -81,6 +81,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/devkhedr/leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/devkhedr/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/devkhedr/leetcode-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/devkhedr/leetcode-solutions/tree/master/3430-count-days-without-meetings) |
