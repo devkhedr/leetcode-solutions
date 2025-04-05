@@ -1,14 +1,14 @@
 class Solution {
 public:
-    int n;
-    int solve(int i, int xoor, vector<int> &nums) {
-        if(i == n) return xoor;
-        int ret = solve(i+1, xoor, nums);
-        ret += solve(i+1, xoor^nums[i], nums);
-        return ret;
-    }
     int subsetXORSum(vector<int>& nums) {
-        n = nums.size();
-        return solve(0, 0, nums);
+        int ans = 0, n = nums.size();
+        for(int mask = 0; mask < (1LL<<n); mask++) {
+            int xoor = 0;
+            for(int i=0;i<n;i++) {
+                if(mask & (1LL << i)) xoor ^= nums[i];
+            }
+            ans += xoor;
+        }
+        return ans;
     }
 };
