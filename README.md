@@ -63,6 +63,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1798-max-number-of-k-sum-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/devkhedr/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/devkhedr/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devkhedr/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -260,6 +261,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1585-the-kth-factor-of-n](https://github.com/devkhedr/leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/devkhedr/leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/devkhedr/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2383-add-two-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/devkhedr/leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -331,6 +333,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0093-restore-ip-addresses](https://github.com/devkhedr/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0491-non-decreasing-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/devkhedr/leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/devkhedr/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -342,6 +345,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devkhedr/leetcode-solutions/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/devkhedr/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -361,6 +365,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0136-single-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/devkhedr/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/devkhedr/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
@@ -502,6 +507,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/devkhedr/leetcode-solutions/tree/master/1212-sequential-digits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/devkhedr/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Shortest Path
 |  |
 | ------- |
