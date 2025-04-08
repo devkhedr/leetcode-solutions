@@ -93,6 +93,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3483-alternating-groups-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/devkhedr/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/devkhedr/leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3750-closest-equal-element-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devkhedr/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -178,6 +179,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2888-minimum-index-of-a-valid-split](https://github.com/devkhedr/leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/devkhedr/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3750-closest-equal-element-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devkhedr/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
