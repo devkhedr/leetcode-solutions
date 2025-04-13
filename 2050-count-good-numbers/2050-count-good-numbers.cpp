@@ -18,7 +18,7 @@ public:
     int countGoodNumbers(long long n) {
         long long evcnt = (n/2) + (n%2), odcnt = n/2;
         cout << evcnt << ' ' << odcnt << '\n';
-        long long evans = mult(5, fast_power_modulo(5, evcnt-1));
+        long long evans = fast_power_modulo(5, evcnt);
         long long odans = fast_power_modulo(4, odcnt);
         return mult(evans, odans);
     }
