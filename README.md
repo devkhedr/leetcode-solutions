@@ -72,6 +72,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/devkhedr/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/devkhedr/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2478-longest-nice-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
@@ -293,6 +294,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0367-valid-perfect-square](https://github.com/devkhedr/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1046-max-consecutive-ones-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/devkhedr/leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2280-count-good-triplets-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/devkhedr/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/devkhedr/leetcode-solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/devkhedr/leetcode-solutions/tree/master/2690-house-robber-iv) |
@@ -359,6 +361,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0053-maximum-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/devkhedr/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -542,4 +545,20 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/devkhedr/leetcode-solutions/tree/master/2050-count-good-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
