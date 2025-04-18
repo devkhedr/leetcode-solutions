@@ -199,6 +199,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/devkhedr/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/devkhedr/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/devkhedr/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/devkhedr/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/devkhedr/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
