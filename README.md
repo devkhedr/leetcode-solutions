@@ -71,6 +71,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devkhedr/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2249-count-the-hidden-sequences](https://github.com/devkhedr/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/devkhedr/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/devkhedr/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -489,6 +490,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/devkhedr/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2249-count-the-hidden-sequences](https://github.com/devkhedr/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
