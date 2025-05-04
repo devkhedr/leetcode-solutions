@@ -3,7 +3,7 @@ public:
     int numEquivDominoPairs(vector<vector<int>>& dominoes) {
         map<pair<int, int>, int> mp;
         for(auto &x: dominoes) {
-            if(x[0] > x[1]) swap(x[0], x[1]);
+            if(x[0] < x[1]) swap(x[0], x[1]);
             mp[{x[0], x[1]}]++;
         }
         int ans = 0;
