@@ -106,6 +106,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
+| [3194-find-words-containing-character](https://github.com/devkhedr/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/devkhedr/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/3321-type-of-triangle) |
@@ -260,6 +261,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/devkhedr/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/devkhedr/leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
+| [3194-find-words-containing-character](https://github.com/devkhedr/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Database
