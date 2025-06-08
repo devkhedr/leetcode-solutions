@@ -1,22 +1,18 @@
 class Solution {
 public:
-    vector<int> lexicalOrder(int n) {
-        vector<int> v;
-        for(int i=1;i<=n;i++) {
-            v.push_back(i);
+    vector<int> v;
+    int nn;
+    void rec(int x) {
+        if(x > nn) return;
+        v.push_back(x);
+        for(int i=0;i<10;i++) {
+            rec(x*10+i);
         }
-        sort(v.begin(), v.end(), [](int x, int y) {
-            string a = to_string(x), b = to_string(y);
-            return a < b;
-        });
+    }
+    vector<int> lexicalOrder(int n) {
+        nn = n;
+        for(int i=1;i<=9;i++) rec(i);
         return v;
     }
 };
-// mohamed
-// ahmed
-
-// ahh
-// aah
-
-// aaa
-// aa
+// 1 -> 10 , 11 , 12 , 13 ,14
