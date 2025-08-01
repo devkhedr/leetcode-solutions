@@ -1,24 +1,17 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    int dp[35][35];
-    int solve(int i, int j) {
-        if(i == 0 && j == 0) return 1;
-        if(i<0 || j<0 || i<j) return 0;
-        int &ret = dp[i][j];
-        if(~ret) return ret;
-        ret = solve(i-1,j-1) + solve(i-1, j);
-        return ret;
-    }
     vector<vector<int>> generate(int numRows) {
-        ans = vector<vector<int>> (numRows);
-        memset(dp, -1, sizeof(dp));
-        for(int i=0;i<numRows;i++) {
-            ans[i] = vector<int>(i+1);
-            for(int j=0;j<i+1;j++) {
-                ans[i][j] = solve(i, j);
+        vector<vector<int>> p(numRows);
+        p[0] = {1};
+        if(numRows == 1) return p;
+        p[1] = {1,1};
+        for(int i=2;i<numRows;i++) {
+            p[i].resize(p[i-1].size()+1);
+            p[i][0] = p[i].back() = 1;
+            for(int j=1;j<p[i].size()-1;j++) {
+                p[i][j] = p[i-1][j-1]+p[i-1][j];
             }
         }
-        return ans;
+        return p;
     }
 };
