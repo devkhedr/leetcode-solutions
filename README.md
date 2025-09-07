@@ -63,6 +63,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/devkhedr/leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/devkhedr/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devkhedr/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devkhedr/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1483-rank-teams-by-votes](https://github.com/devkhedr/leetcode-solutions/tree/master/1483-rank-teams-by-votes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/devkhedr/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -325,6 +326,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1146-greatest-common-divisor-of-strings](https://github.com/devkhedr/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/devkhedr/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devkhedr/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devkhedr/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/devkhedr/leetcode-solutions/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/devkhedr/leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
