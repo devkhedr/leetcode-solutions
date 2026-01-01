@@ -25,6 +25,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0057-insert-interval](https://github.com/devkhedr/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/devkhedr/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/devkhedr/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/devkhedr/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -319,6 +320,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0007-reverse-integer](https://github.com/devkhedr/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/devkhedr/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/devkhedr/leetcode-solutions/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/devkhedr/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/devkhedr/leetcode-solutions/tree/master/0367-valid-perfect-square) |
