@@ -56,6 +56,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0735-asteroid-collision](https://github.com/devkhedr/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/devkhedr/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/devkhedr/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/devkhedr/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -207,6 +208,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0768-partition-labels](https://github.com/devkhedr/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/devkhedr/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devkhedr/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/devkhedr/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
