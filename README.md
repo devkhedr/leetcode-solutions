@@ -63,6 +63,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/devkhedr/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/devkhedr/leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1390-four-divisors](https://github.com/devkhedr/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/devkhedr/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devkhedr/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devkhedr/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -330,6 +331,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0797-rabbits-in-forest](https://github.com/devkhedr/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devkhedr/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/devkhedr/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1390-four-divisors](https://github.com/devkhedr/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devkhedr/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/devkhedr/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/devkhedr/leetcode-solutions/tree/master/1500-count-largest-group) |
