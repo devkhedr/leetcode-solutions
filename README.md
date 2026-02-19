@@ -151,6 +151,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0345-reverse-vowels-of-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/devkhedr/leetcode-solutions/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/devkhedr/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/devkhedr/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/devkhedr/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -256,6 +257,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0392-is-subsequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/devkhedr/leetcode-solutions/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/devkhedr/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/devkhedr/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/devkhedr/leetcode-solutions/tree/master/0874-backspace-string-compare) |
