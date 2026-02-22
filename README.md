@@ -473,6 +473,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0338-counting-bits](https://github.com/devkhedr/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/devkhedr/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/devkhedr/leetcode-solutions/tree/master/0868-binary-gap) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devkhedr/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
