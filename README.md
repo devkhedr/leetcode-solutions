@@ -128,6 +128,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/devkhedr/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/devkhedr/leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/devkhedr/leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -322,6 +323,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2428-equal-row-and-column-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Math
 |  |
 | ------- |
@@ -447,6 +449,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0169-majority-element](https://github.com/devkhedr/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Combinatorics
 |  |
 | ------- |
