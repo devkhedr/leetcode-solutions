@@ -57,6 +57,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0735-asteroid-collision](https://github.com/devkhedr/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/devkhedr/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/devkhedr/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [0875-koko-eating-bananas](https://github.com/devkhedr/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -374,6 +375,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0074-search-a-2d-matrix](https://github.com/devkhedr/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devkhedr/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/devkhedr/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0875-koko-eating-bananas](https://github.com/devkhedr/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/devkhedr/leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/devkhedr/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
