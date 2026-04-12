@@ -273,6 +273,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0778-reorganize-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/devkhedr/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devkhedr/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/devkhedr/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/devkhedr/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/devkhedr/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1483-rank-teams-by-votes](https://github.com/devkhedr/leetcode-solutions/tree/master/1483-rank-teams-by-votes) |
@@ -414,6 +415,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0747-min-cost-climbing-stairs](https://github.com/devkhedr/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/devkhedr/leetcode-solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/devkhedr/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/devkhedr/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devkhedr/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
