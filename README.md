@@ -99,6 +99,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/devkhedr/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2478-longest-nice-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/devkhedr/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -290,6 +291,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/devkhedr/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/devkhedr/leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3194-find-words-containing-character](https://github.com/devkhedr/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
