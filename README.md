@@ -143,6 +143,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/devkhedr/leetcode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3750-closest-equal-element-queries) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devkhedr/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
@@ -255,6 +256,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3750-closest-equal-element-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devkhedr/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -375,6 +377,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
