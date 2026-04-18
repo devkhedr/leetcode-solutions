@@ -380,6 +380,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3321-type-of-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/devkhedr/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
