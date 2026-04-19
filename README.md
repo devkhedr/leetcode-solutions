@@ -82,6 +82,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1833-find-the-highest-altitude](https://github.com/devkhedr/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/devkhedr/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/devkhedr/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1917-maximum-average-pass-ratio](https://github.com/devkhedr/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devkhedr/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -171,6 +172,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1019-squares-of-a-sorted-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/devkhedr/leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/devkhedr/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/devkhedr/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/devkhedr/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -394,6 +396,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0875-koko-eating-bananas](https://github.com/devkhedr/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/devkhedr/leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/devkhedr/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/devkhedr/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/devkhedr/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
