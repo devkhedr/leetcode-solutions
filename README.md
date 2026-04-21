@@ -77,6 +77,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devkhedr/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/devkhedr/leetcode-solutions/tree/master/1656-count-good-triplets) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/devkhedr/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/devkhedr/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/devkhedr/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
@@ -548,6 +549,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devkhedr/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devkhedr/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1428-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1428-jump-game-iii) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/devkhedr/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/devkhedr/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -731,4 +733,8 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/devkhedr/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/devkhedr/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
