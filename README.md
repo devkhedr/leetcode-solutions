@@ -102,6 +102,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2308-divide-array-into-equal-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/devkhedr/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/devkhedr/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/devkhedr/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2478-longest-nice-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -300,6 +301,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devkhedr/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/devkhedr/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/devkhedr/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/devkhedr/leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -735,6 +737,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/devkhedr/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/devkhedr/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Union-Find
 |  |
 | ------- |
