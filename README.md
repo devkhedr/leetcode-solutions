@@ -51,6 +51,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0368-largest-divisible-subset](https://github.com/devkhedr/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/devkhedr/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0605-can-place-flowers](https://github.com/devkhedr/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/devkhedr/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
