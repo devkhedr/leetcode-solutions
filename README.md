@@ -110,6 +110,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2551-apply-operations-to-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/devkhedr/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/devkhedr/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/devkhedr/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/devkhedr/leetcode-solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/devkhedr/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
@@ -247,6 +248,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/devkhedr/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2615-sum-of-distances](https://github.com/devkhedr/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/devkhedr/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/devkhedr/leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -626,6 +628,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/devkhedr/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/devkhedr/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/devkhedr/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2615-sum-of-distances](https://github.com/devkhedr/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/devkhedr/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/devkhedr/leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
