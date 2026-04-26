@@ -75,6 +75,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1428-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1483-rank-teams-by-votes](https://github.com/devkhedr/leetcode-solutions/tree/master/1483-rank-teams-by-votes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/devkhedr/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devkhedr/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/devkhedr/leetcode-solutions/tree/master/1656-count-good-triplets) |
@@ -509,6 +510,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0073-set-matrix-zeroes](https://github.com/devkhedr/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/devkhedr/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/devkhedr/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -561,6 +563,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devkhedr/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devkhedr/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1428-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1428-jump-game-iii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/devkhedr/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/devkhedr/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -573,6 +576,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devkhedr/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devkhedr/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1428-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1428-jump-game-iii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/devkhedr/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -752,5 +756,6 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/devkhedr/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
