@@ -90,6 +90,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1917-maximum-average-pass-ratio](https://github.com/devkhedr/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devkhedr/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/devkhedr/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devkhedr/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -206,6 +207,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1483-rank-teams-by-votes](https://github.com/devkhedr/leetcode-solutions/tree/master/1483-rank-teams-by-votes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/devkhedr/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/devkhedr/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -379,6 +381,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/devkhedr/leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devkhedr/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/devkhedr/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2383-add-two-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/2383-add-two-integers) |
@@ -513,6 +516,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0200-number-of-islands](https://github.com/devkhedr/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
