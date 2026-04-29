@@ -133,6 +133,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3194-find-words-containing-character](https://github.com/devkhedr/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/devkhedr/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-maximum-score-from-grid-operations](https://github.com/devkhedr/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/3321-type-of-triangle) |
@@ -459,6 +460,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2408-number-of-people-aware-of-a-secret](https://github.com/devkhedr/leetcode-solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/devkhedr/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/devkhedr/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [3225-maximum-score-from-grid-operations](https://github.com/devkhedr/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Greedy
 |  |
@@ -522,6 +524,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/devkhedr/leetcode-solutions/tree/master/2906-construct-product-matrix) |
+| [3225-maximum-score-from-grid-operations](https://github.com/devkhedr/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Bit Manipulation
@@ -650,6 +653,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2615-sum-of-distances](https://github.com/devkhedr/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/devkhedr/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/devkhedr/leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3225-maximum-score-from-grid-operations](https://github.com/devkhedr/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
