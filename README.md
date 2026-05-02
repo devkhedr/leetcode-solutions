@@ -49,6 +49,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0283-move-zeroes](https://github.com/devkhedr/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/devkhedr/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/devkhedr/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devkhedr/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -372,6 +373,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0202-happy-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/devkhedr/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/devkhedr/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/devkhedr/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/devkhedr/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/devkhedr/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devkhedr/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -448,6 +450,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0338-counting-bits](https://github.com/devkhedr/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/devkhedr/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/devkhedr/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/devkhedr/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/devkhedr/leetcode-solutions/tree/master/0788-rotated-digits) |
