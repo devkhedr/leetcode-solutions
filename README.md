@@ -372,6 +372,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0202-happy-number](https://github.com/devkhedr/leetcode-solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/devkhedr/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/devkhedr/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0788-rotated-digits](https://github.com/devkhedr/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/devkhedr/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devkhedr/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/devkhedr/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -449,6 +450,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0392-is-subsequence](https://github.com/devkhedr/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/devkhedr/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/devkhedr/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/devkhedr/leetcode-solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/devkhedr/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/devkhedr/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
