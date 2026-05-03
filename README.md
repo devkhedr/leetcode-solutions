@@ -297,6 +297,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0696-count-binary-substrings](https://github.com/devkhedr/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/devkhedr/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/devkhedr/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devkhedr/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/devkhedr/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -335,6 +336,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/devkhedr/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/devkhedr/leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Stack
 |  |
