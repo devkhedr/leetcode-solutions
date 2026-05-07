@@ -152,6 +152,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/devkhedr/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/devkhedr/leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3660-jump-game-ix](https://github.com/devkhedr/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/devkhedr/leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -473,6 +474,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2463-minimum-total-distance-traveled](https://github.com/devkhedr/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3225-maximum-score-from-grid-operations](https://github.com/devkhedr/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3660-jump-game-ix](https://github.com/devkhedr/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Greedy
 |  |
