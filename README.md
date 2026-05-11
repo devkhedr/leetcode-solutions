@@ -126,6 +126,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2699-count-the-number-of-fair-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/devkhedr/leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/devkhedr/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/devkhedr/leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2906-construct-product-matrix](https://github.com/devkhedr/leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -476,6 +477,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2408-number-of-people-aware-of-a-secret](https://github.com/devkhedr/leetcode-solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/devkhedr/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/devkhedr/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/devkhedr/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/devkhedr/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3660-jump-game-ix](https://github.com/devkhedr/leetcode-solutions/tree/master/3660-jump-game-ix) |
