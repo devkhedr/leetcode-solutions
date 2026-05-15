@@ -1,25 +1,20 @@
 class Solution {
 public:
-    int findMin(vector<int>& nums) {
-        int low = 0, high = nums.size() - 1;
-        int ans = INT_MAX;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (nums[low] <= nums[high]) {
-                ans = min(ans, nums[low]);
-                break;
-            }
-            if (nums[low] <= nums[mid]) {
-                ans = min(ans, nums[low]);
-                low = mid + 1;
-            }
-            else {
-                ans = min(ans, nums[mid]);
-                high = mid - 1;
-            }
+    int n;
+    inline int findK(vector<int>& x) {
+        if (n==1) return 0;
+        if (n==2) return (x[0]<x[1])?1:0;
+        int l=0, r=n, m;
+        while(l<r){
+            m=(r+l)/2;
+            if (m==n-1 || x[m]>x[m+1]) return m;
+            if (x[m]>x[l]) l=m;
+            else r=m;    
         }
-
-        return ans;
+        return m;
+    }
+    int findMin(vector<int>& nums) {
+        n=nums.size();
+        return nums[(findK(nums)+1)%n];
     }
 };
