@@ -68,6 +68,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1046-max-consecutive-ones-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/devkhedr/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1306-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/devkhedr/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/devkhedr/leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/devkhedr/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -605,6 +606,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/devkhedr/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devkhedr/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devkhedr/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1428-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -619,6 +621,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [0200-number-of-islands](https://github.com/devkhedr/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devkhedr/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devkhedr/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1428-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
