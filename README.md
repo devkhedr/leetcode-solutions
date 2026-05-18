@@ -71,6 +71,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1306-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/devkhedr/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/devkhedr/leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1345-jump-game-iv](https://github.com/devkhedr/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/devkhedr/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/devkhedr/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -259,6 +260,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devkhedr/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/devkhedr/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1345-jump-game-iv](https://github.com/devkhedr/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/devkhedr/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/devkhedr/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1483-rank-teams-by-votes](https://github.com/devkhedr/leetcode-solutions/tree/master/1483-rank-teams-by-votes) |
@@ -622,6 +624,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devkhedr/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devkhedr/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/devkhedr/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1428-jump-game-iii](https://github.com/devkhedr/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
