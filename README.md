@@ -139,6 +139,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2906-construct-product-matrix](https://github.com/devkhedr/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/devkhedr/leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/devkhedr/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devkhedr/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -284,6 +285,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2856-count-complete-subarrays-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/devkhedr/leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/devkhedr/leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devkhedr/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3488-closest-equal-element-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3548-find-the-count-of-good-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -339,6 +341,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2470-removing-stars-from-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/devkhedr/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devkhedr/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3194-find-words-containing-character](https://github.com/devkhedr/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -810,6 +813,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/devkhedr/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/devkhedr/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devkhedr/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Union-Find
 |  |
 | ------- |
