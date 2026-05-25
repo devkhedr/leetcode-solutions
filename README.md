@@ -334,6 +334,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devkhedr/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/devkhedr/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/devkhedr/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1871-jump-game-vii](https://github.com/devkhedr/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1894-merge-strings-alternately](https://github.com/devkhedr/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devkhedr/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -494,6 +495,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devkhedr/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1871-jump-game-vii](https://github.com/devkhedr/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/devkhedr/leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/devkhedr/leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/devkhedr/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -669,6 +671,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/devkhedr/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devkhedr/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devkhedr/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1871-jump-game-vii](https://github.com/devkhedr/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/devkhedr/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/devkhedr/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/devkhedr/leetcode-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -698,6 +701,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devkhedr/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/devkhedr/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/devkhedr/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
+| [1871-jump-game-vii](https://github.com/devkhedr/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devkhedr/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/devkhedr/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/devkhedr/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
