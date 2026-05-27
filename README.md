@@ -289,6 +289,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2888-minimum-index-of-a-valid-split](https://github.com/devkhedr/leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/devkhedr/leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devkhedr/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/devkhedr/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3488-closest-equal-element-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3548-find-the-count-of-good-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -346,6 +347,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/devkhedr/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devkhedr/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/devkhedr/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
