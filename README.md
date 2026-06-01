@@ -103,6 +103,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/devkhedr/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devkhedr/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devkhedr/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devkhedr/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/devkhedr/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -231,6 +232,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1777-determine-if-two-strings-are-close](https://github.com/devkhedr/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devkhedr/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/devkhedr/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -527,6 +529,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/devkhedr/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1917-maximum-average-pass-ratio](https://github.com/devkhedr/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devkhedr/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devkhedr/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/devkhedr/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2681-put-marbles-in-bags](https://github.com/devkhedr/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/devkhedr/leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
