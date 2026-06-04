@@ -446,6 +446,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3321-type-of-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/devkhedr/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3548-find-the-count-of-good-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/devkhedr/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
@@ -521,6 +522,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3243-count-the-number-of-powerful-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3660-jump-game-ix](https://github.com/devkhedr/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -800,6 +802,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2998-count-symmetric-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Shortest Path
 |  |
 | ------- |
