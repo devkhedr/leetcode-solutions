@@ -105,6 +105,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devkhedr/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devkhedr/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/devkhedr/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devkhedr/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devkhedr/leetcode-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/devkhedr/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -208,6 +209,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1798-max-number-of-k-sum-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/devkhedr/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/devkhedr/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/devkhedr/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/devkhedr/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/devkhedr/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -399,6 +401,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1914-cyclically-rotating-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/devkhedr/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/devkhedr/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/devkhedr/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/devkhedr/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/devkhedr/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/devkhedr/leetcode-solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
