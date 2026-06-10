@@ -175,6 +175,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3660-jump-game-ix](https://github.com/devkhedr/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/devkhedr/leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -555,6 +556,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devkhedr/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
@@ -776,6 +778,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/devkhedr/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -837,6 +840,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
