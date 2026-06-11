@@ -454,6 +454,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3321-type-of-triangle](https://github.com/devkhedr/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/devkhedr/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3548-find-the-count-of-good-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -640,6 +641,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/devkhedr/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devkhedr/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devkhedr/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -660,6 +662,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/devkhedr/leetcode-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/devkhedr/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
