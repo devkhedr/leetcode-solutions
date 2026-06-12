@@ -163,6 +163,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3483-alternating-groups-ii) |
 | [3488-closest-equal-element-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/devkhedr/leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -455,6 +456,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/devkhedr/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3548-find-the-count-of-good-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -530,6 +532,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/devkhedr/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/devkhedr/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devkhedr/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/devkhedr/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -624,6 +627,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2478-longest-nice-subarray](https://github.com/devkhedr/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/devkhedr/leetcode-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -642,6 +646,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devkhedr/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devkhedr/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -663,6 +668,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devkhedr/leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/devkhedr/leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
