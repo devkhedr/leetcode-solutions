@@ -148,6 +148,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devkhedr/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3161-block-placement-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3194-find-words-containing-character](https://github.com/devkhedr/leetcode-solutions/tree/master/3194-find-words-containing-character) |
@@ -487,6 +488,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 | [2665-minimum-time-to-repair-cars](https://github.com/devkhedr/leetcode-solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/devkhedr/leetcode-solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/devkhedr/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3161-block-placement-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/devkhedr/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devkhedr/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -848,10 +850,12 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devkhedr/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
@@ -861,6 +865,7 @@ This is my solutions on [LeetCode](https://leetcode.com/problemset/all/).
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/devkhedr/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/devkhedr/leetcode-solutions/tree/master/3161-block-placement-queries) |
 ## Monotonic Queue
 |  |
 | ------- |
